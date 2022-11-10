@@ -1,0 +1,1 @@
+Training Ruby with a simple translator code
